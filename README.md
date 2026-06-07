@@ -26,4 +26,6 @@ Key Insights
 
  
  Tech Stack
-ToolPurposePower BIDashboard & visualizationsDAXCalculated measures & KPIsPython (Pandas)Data cleaning & preparation
+ToolPurpose  Power BI Dashboard & visualizations
+DAXCalculated measures & KPIs
+Python (Pandas)Data cleaning & preparation
