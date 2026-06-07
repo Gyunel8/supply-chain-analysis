@@ -21,7 +21,7 @@ This project analyzes supply chain data to identify delivery performance, sales 
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 - **Delivery Status Breakdown** — Late delivery, advance shipping, on time, cancelled
 - **Top 10 Products by Sales** — Best performing products ranked by revenue
@@ -39,7 +39,7 @@ This project analyzes supply chain data to identify delivery performance, sales 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
